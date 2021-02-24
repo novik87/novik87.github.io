@@ -6,4 +6,4 @@
 Проекты
 
 
-[Сайт одностраничник 1](http:\\novik87.github.io/sale.lider-krovlya.ru/ "Перейти")
+[Сайт одностраничник 1](http:\\novik87.github.io/sale.lider-krovlya.ru/ "Необязательная подсказка")

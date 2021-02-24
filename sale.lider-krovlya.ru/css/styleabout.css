@@ -1,0 +1,208 @@
+*{
+box-sizing: border-box;
+}
+body {
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #222;
+    background: #ffffff;
+
+}
+
+a{
+	text-decoration:none;
+
+}
+
+header{
+
+width: 100%;
+background: #006699;
+display: flex; 
+flex-wrap: wrap;
+
+
+}
+
+.header_logo {
+	display: flex;
+	margin-top: 30px;
+	margin-left: 18%;
+	}
+
+.logo {
+	background: url(../img/logo.png) no-repeat;
+	width: 300px;
+	height: 100px;
+
+}
+ 
+.header-tel{
+
+	margin-top: 56px;
+	margin-left: 26%;
+
+}
+
+.header-tel a{
+	font-size:22px;
+	color: white;
+	font-weight: bold;
+	
+}
+
+.whatsapp1 a {
+	color: white;
+	cursor: pointer;
+	font-weight: normal;
+}
+.whatsapp1 {
+	background-color: #4CAF50;;
+	border: none;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.header-tel button:hover{
+	
+	background-color: #66C05D;
+
+}
+
+
+
+main{
+
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+.wraper{
+
+	width: 65%;
+	max-width: 1000px;
+	margin: 0 auto;
+	background: white; 
+}
+.office-h1{
+color:#149cce;
+
+
+}
+main .main_about{
+	
+	padding: 20px 0 20px 0;
+	justify-content: centr;
+}
+.office-left {
+
+	padding-top: 25px;
+	padding-bottom: 50px;
+
+}
+.office-left img{
+	
+	
+	border:2px solid grey;
+}
+
+
+
+
+}
+.office-right{
+max-width: 1000px;
+
+}
+
+
+video {
+	padding-top: 50px;
+
+}
+.sertif {
+
+	padding-top: 100px;
+}
+.rekvizit img{
+
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+
+.sertifikat_nazvanie{
+    display: flex;
+    width: 100%;
+	margin-top: 65px;
+	text-align: centr;
+	justify-content: center;
+
+}
+
+
+.sertifikat {
+justify-content: space-between;
+margin-top: 5px;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.sertif1 {
+
+	margin-top: 30px;
+	
+
+}
+.sertif2 {
+
+	margin-top: 30px;
+}
+
+.sertif3 {
+
+	margin-top: 30px;
+	
+}
+
+.rekvizit3{
+	display: flex;
+    width: 100%;
+	margin-top: 65px;
+	text-align: centr;
+	justify-content: center;
+}
+.rekvizit3 h2{
+
+	text-align: centr;
+	justify-content: center;
+}
+
+.rekvizit{
+
+	margin-top: 5px;
+}
+table{
+
+	width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: black; /* Цвет текста */
+    border-collapse: collapse; /* Расстояние между ячейками */
+
+   }
+
+   td, th  {
+
+    
+    padding: 5px; /* Поля вокруг текста */
+}

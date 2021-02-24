@@ -1,2 +1,1 @@
-# novitskii.github.io
 Проекты

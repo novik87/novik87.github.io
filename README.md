@@ -1,2 +1,2 @@
 Проекты
- [Сайт одностраничник для Контекстной реклымы](novik87.github.io/sale.lider-krovlya.ru/ "Необязательная подсказка")
+ [sale.lider-krovlya.ru](http:\\novik87.github.io/sale.lider-krovlya.ru/ "Перейти") Сайт одностраничник для Контекстной реклымы Лидер Кровля
